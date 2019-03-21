@@ -20,6 +20,7 @@ namespace Nuevogit
         private void Button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("TELOKOMOTODO HELMANO MARICONADAS 0");
+            MessageBox.Show("ELJAVI ESUNMARICA JAJAJA");
         }
     }
 }
