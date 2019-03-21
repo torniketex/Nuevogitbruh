@@ -16,5 +16,10 @@ namespace Nuevogit
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("TELOKOMOTODO HELMANO MARICONADAS 0");
+        }
     }
 }
